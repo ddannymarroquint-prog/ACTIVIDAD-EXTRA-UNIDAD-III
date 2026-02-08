@@ -1,0 +1,1 @@
+Se eligió una licencia permisiva y corta para que los archivos contenidos puedan ser modificados y aplicados según a interés, estos archivos son académicos y su uso solo tiene correlación con el objetivo de incrementar el conocimiento y desarrollo de hábilidades técnicas.
